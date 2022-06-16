@@ -4,12 +4,10 @@
 
 **Today's Progress**: Started with HTML basics
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 16, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Revised HTML basics and started with basics of CSS. Learnt how div and classes work.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
