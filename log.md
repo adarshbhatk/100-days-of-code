@@ -8,9 +8,7 @@
 
 **Today's Progress**: Revised HTML basics and started with basics of CSS. Learnt how div and classes work.
 
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+### June 17 - June 19 2022: Weekend break
 
 ### Day 1: June 27, Monday
 
